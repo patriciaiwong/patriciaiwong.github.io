@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Patricia Wong",
+    "label": "Materials and Process Engineer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "phone": "305-608-4363",
+    "website": "https://patriciaiwong.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "33146",
+      "city": "Miami",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "patriciaiwong",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "patriciaiwong",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
