@@ -29,26 +29,25 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Analysis",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+     
       ]
     },
     {
-      "name": "data mining",
+      "name": "Material Processing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Research and Development",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Data Analysis Tools",
       "level": "",
       "keywords": [
         "C",
@@ -63,8 +62,6 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
@@ -73,11 +70,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Miami, Miami, FL",
+      "area": "Data Analysis",
+      "studyType": "Certificate",
+      "startDate": "09-01-2019",
+      "endDate": "03-28-2020",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Florida International University, Miami, FL",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "09-01-2011",
+      "endDate": "05-04-2015",
       "gpa": "",
       "courses": [
       ]
