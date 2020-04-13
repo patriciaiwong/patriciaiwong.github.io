@@ -83,8 +83,8 @@
       "institution": "Florida International University, Miami, FL",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "09-01-2011",
-      "endDate": "05-04-2015",
+      "startDate": "2011-09-01",
+      "endDate": "2015-05-04",
       "gpa": "",
       "courses": [
       ]
@@ -92,15 +92,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bionic Eye Technologies Inc",
+      "position": "Material and Process Engineer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-09-15",
+      "endDate": "2019-07-01",
+      "summary": ["●	Developed processes for multilayer ceramics manufacturing of hermetic co-fired ceramic feedthroughs.",
+      "●	Performed micro-fabrication processes to make flexible components for an implantable medical device (a visual prosthesis)."  
+      "●	Completed prototype of the retinal prothesis.","●	Project Management:"],
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "o	Tracked and managed project schedule with Gantt charts",
+        "o	Patents, Grant Applications, and IP Portfolio - communicated with attorneys and team members",
+        "o	Managed projects by coordinating customer needs with vendors and research team",
+        "o	Procurement and set up ISO 8 Cleanroom in the main Bionic Eye laboratory space"
       ]
     },
     {
