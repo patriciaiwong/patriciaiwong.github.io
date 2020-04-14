@@ -47,24 +47,41 @@
   ],
   "skills": [
     {
-      "name": "Data Analysis Tools",
+      "name": "Software Skills",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SolidWorks", "Creo Parametric", "Microsoft Office (Microsoft Word, Advanced Excel, and PowerPoint)", "Klayout"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Data Analysis Tools",
       "level": "",
       "keywords": [
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Python", "Pandas", "NumPy", "SQL", "JSON", "HTML/CSS", "Beautiful Soup", "JavaScript", 
+        "D3.js", "Plotly", "Leaflet", "Tableau", "Machine Learning", "GitHub", "Big Data"
+      ]
+    },
+    {
+      "name": "Electronic Packaging and Multilayer Ceramic Technology",
+      "level": "",
+      "keywords": [
+        "Extensive experience in screen printing, slurry preparation and tape casting."
+      ]
+    },
+    {
+      "name": "Microfabrication Processing",
+      "level": "",
+      "keywords": [
+        "Wafer Design", "mask making", "photolithography (resist spinning, mask exposure, development)", 
+        "film deposition (evaporation, sputtering and electroplating)","etching  (wet and dry plasma etching and RIE)."
+      ]
+    },
+    {
+      "name": "Data Analysis Tools",
+      "level": "",
+      "keywords": [
+        "Python", "Pandas", "NumPy", "SQL", "JSON", "HTML/CSS", "Beautiful Soup", "JavaScript", 
+        "D3.js", "Plotly", "Leaflet", "Tableau", "Machine Learning", "GitHub", "Big Data"
       ]
     }
   ],
