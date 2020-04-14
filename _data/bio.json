@@ -77,13 +77,34 @@
       ]
     },
     {
-      "name": "Data Analysis Tools",
+      "name": "Analytical Techniques",
       "level": "",
       "keywords": [
-        "Python", "Pandas", "NumPy", "SQL", "JSON", "HTML/CSS", "Beautiful Soup", "JavaScript", 
-        "D3.js", "Plotly", "Leaflet", "Tableau", "Machine Learning", "GitHub", "Big Data"
+        "Sample preparation (cutting, mounting and polishing)", "optical microscopy", 
+        "Surface profilometry", "X-ray analysis", "Scanning Electron Microscope (SEM)"
       ]
-    }
+    },
+    {
+      "name": "Machine Shop",
+      "level": "",
+      "keywords": [
+         "CNC Machining", "Gcode", "knee mill", "lathe", "hand tools"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Fluent",
+      "keywords": [
+        "English","Spanish"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Beginner",
+      "keywords": [
+        "Mandarin"
+      ]
+    }      
   ],
   "education": [
     {
