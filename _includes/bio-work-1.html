@@ -14,12 +14,7 @@
         <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
           }}</a></p>
-        {% if entry.summaries %}
-        <ul class="ui no-bottom">
-          {% for summary in entry.summaries %}
-          <li>{{ summary }}</li>
-          {% endfor %}
-        </ul>
+        <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
           {% for highlight in entry.highlights %}
