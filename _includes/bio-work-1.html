@@ -15,11 +15,11 @@
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
           }}</a></p>
         {% if entry.summaries %}
-        <p class="ui no-bottom">
+        <li class="ui no-bottom">
           {% for summary in entry.summaries %}
-          <p>{{ summary }}</p>
+          <li>{{ summary }}</li>
           {% endfor %}
-        </p>
+        </li>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
           {% for highlight in entry.highlights %}
