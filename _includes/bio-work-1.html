@@ -14,7 +14,7 @@
         <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
           }}</a></p>
-        <ul class="ui no-bottom">{{ entry.summary }}</ul>
+        <li class="ui no-bottom">{{ entry.summary }}</li>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
           {% for highlight in entry.highlights %}
