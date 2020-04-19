@@ -4,7 +4,7 @@ type: project
 image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
-projecturl:https://patriciaiwong.github.io/D3-challenge/index.html
+projecturl: https://patriciaiwong.github.io/D3-challenge/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
