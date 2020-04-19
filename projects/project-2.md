@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/D3-challenge
+projecturl: https://patriciaiwong.github.io/D3-challenge/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - D3.js
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
