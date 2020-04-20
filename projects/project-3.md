@@ -1,14 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Covid-19.jpg
+title: Pandemic_Analysis
+permalink: projects/pandemicanalysis
+projecturl: https://patriciaiwong.github.io/Pandemic_FinalProject/
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-03-28
 labels:
-  - Lisp
-  - GitHub
+  - Python
+  - Pandas
+  - JS
+  - D3.js
+  - Machine Learning
 summary: A text adventure game I developed for ICS 313.
 ---
 
