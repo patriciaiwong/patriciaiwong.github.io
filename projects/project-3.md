@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/Covid-19.jpg
 title: Pandemic_Analysis
+published: false
 permalink: projects/pandemicanalysis
 projecturl: https://patriciaiwong.github.io/Pandemic_FinalProject/
 # All dates must be YYYY-MM-DD format!
