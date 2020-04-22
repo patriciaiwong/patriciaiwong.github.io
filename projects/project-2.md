@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
+published: false
 permalink: projects/D3-challenge
 projecturl: https://patriciaiwong.github.io/D3-challenge/index.html
 # All dates must be YYYY-MM-DD format!
