@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micromouse
+published: false
 permalink: projects/leaflet-challenge
 projecturl: https://patriciaiwong.github.io/leaflet-challenge/index.html
 # All dates must be YYYY-MM-DD format!
