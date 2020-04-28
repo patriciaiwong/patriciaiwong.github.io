@@ -2,17 +2,19 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Extract Transform Load (ETL)
 published: false
-permalink: projects/D3-challenge
-projecturl: https://patriciaiwong.github.io/D3-challenge/index.html
+permalink: projects/Extract_Transform_Load_Project
+projecturl: https://patriciaiwong.github.io/Extract_Transform_Load_Project/
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - D3.js
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+  - Pandas
+  - Pymongo
+  - MongoDB
+  - 
+summary: An analysis of employment data for Illinois, New York and Georgia. Utilized Python and Pandas to extract data from the Department of Labor from May 2018, store data in a MongoDB database and populate a web page.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
