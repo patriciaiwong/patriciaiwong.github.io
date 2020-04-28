@@ -3,11 +3,10 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Extract Transform Load (ETL)
-published: false
 permalink: projects/Extract_Transform_Load_Project
 projecturl: https://patriciaiwong.github.io/Extract_Transform_Load_Project/
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-01-15
 labels:
   - Python
   - Pandas
