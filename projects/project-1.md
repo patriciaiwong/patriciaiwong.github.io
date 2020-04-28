@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/citibike.png
 title: Tableau
 permalink: projects/tableau-citibike
 projecturl: https://patriciaiwong.github.io/tableau-citibike/
