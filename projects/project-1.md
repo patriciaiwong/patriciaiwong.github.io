@@ -4,7 +4,7 @@ type: project
 image: images/micromouse.jpg
 title: Tableau
 permalink: projects/tableau-citibike
-projecturl: https://patriciaiwong.github.io/tableau-citibike
+projecturl: https://patriciaiwong.github.io/tableau-citibike/
 
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-07
