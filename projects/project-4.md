@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/SQL.png
-title: Pandemic_Analysis
+image: images/SQL.jpg
+title: PostgresSQL - Set up and Queries 
 published: true
 permalink: projects/sql
 projecturl: https://patriciaiwong.github.io/sql-challenge/
