@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ETL.png
 title: Extract Transform Load (ETL)
 permalink: projects/Extract_Transform_Load_Project
 projecturl: https://patriciaiwong.github.io/Extract_Transform_Load_Project/
