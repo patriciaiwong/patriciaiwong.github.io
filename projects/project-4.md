@@ -10,6 +10,6 @@ projecturl: https://patriciaiwong.github.io/sql-challenge/
 date: 2019-12-10
 labels:
   - SQL
-summary: Created tables using sql and uploaded data into them then queried information from SQL.
+summary: Created a SQL database and analyzed company employee data using SQL queries and CRUD functions.
 ---
 
