@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SQL.jpg
+image: images/SQL.png
 title: PostgresSQL - Set up and Queries 
 published: true
 permalink: projects/sql
