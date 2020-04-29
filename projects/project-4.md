@@ -10,6 +10,6 @@ projecturl: https://patriciaiwong.github.io/sql-challenge/
 date: 2019-12-10
 labels:
   - SQL
-summary: COVID-19 analysis for the ongoing pandemic using web sources to produce a search tool that allows the user to look up the amount of cases in their area by providing the state or county. Visualize the amount of cases in the US with a map that depicts the hotspots in the US.
+summary: Created tables using sql and uploaded data into them then queried information from SQL.
 ---
 
