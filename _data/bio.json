@@ -106,6 +106,12 @@
       ]
     }      
   ],
+    "summary": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ],
   "education": [
     {
       "institution": "University of Miami, Miami, FL",
@@ -179,11 +185,5 @@
                      "Performed extensive source data research, such as cage codes, maintenance data, consumables, tech manuals and special equipment."
                     ],
     },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
